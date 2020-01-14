@@ -33,7 +33,7 @@
       <recent name="$PROJECT_DIR$/templets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TestFlask">
+  <component name="RunManager" selected="Python.TestFlaskOne">
     <configuration name="TestFlask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstWebProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +47,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/TestFlask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFlaskOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstWebProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/TestFlaskOne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TestFlaskOne" />
         <item itemvalue="Python.TestFlask" />
         <item itemvalue="Python.server" />
       </list>
@@ -109,22 +131,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1343" height="173" key="GridCell.Tab.0.bottom" timestamp="1579023149578">
+    <state width="1343" height="173" key="GridCell.Tab.0.bottom" timestamp="1579032903982">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1343" height="173" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1579023149578" />
-    <state width="1343" height="173" key="GridCell.Tab.0.center" timestamp="1579023149575">
+    <state width="1343" height="173" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1579032903982" />
+    <state width="1343" height="173" key="GridCell.Tab.0.center" timestamp="1579032903980">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1343" height="173" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1579023149575" />
-    <state width="1343" height="173" key="GridCell.Tab.0.left" timestamp="1579023149574">
+    <state width="1343" height="173" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1579032903980" />
+    <state width="1343" height="173" key="GridCell.Tab.0.left" timestamp="1579032903980">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1343" height="173" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1579023149574" />
-    <state width="1343" height="173" key="GridCell.Tab.0.right" timestamp="1579023149577">
+    <state width="1343" height="173" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1579032903980" />
+    <state width="1343" height="173" key="GridCell.Tab.0.right" timestamp="1579032903981">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1343" height="173" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1579023149577" />
+    <state width="1343" height="173" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1579032903981" />
     <state x="172" y="35" width="1022" height="733" key="SettingsEditor" timestamp="1578857153200">
       <screen x="0" y="31" width="1366" height="737" />
     </state>

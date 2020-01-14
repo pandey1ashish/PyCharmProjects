@@ -16,9 +16,9 @@ def sqlConn():
     conn.close()
 
 
-@app.route("/")
-def home():
-    return render_template("index.html")
+@app.route("/<name>")
+def home(name):
+    return render_template("index.html", content=name, country='India', people=['Vinay', 'Ashish', 'Mamta'])
 
 
 @app.route("/sqlfn")

@@ -1,0 +1,61 @@
+git init
+git add <folder1> <folder2> <etc.>
+git commit -m "Your message about the commit"
+git remote add origin https://github.com/yourUsername/yourRepository.git
+git push -u origin master
+git push origin master
+
+git push --set-upstream https://github.com/pandey1ashish/PyCharmProjects.git master
+
+
+
+
+
+
+213  cd /opt/pycharm-community-2019.3.1/
+  214  clear
+  215  cd bin/
+  216  ./pycharm.sh 
+  217  dir
+  218  cd PycharmProjects/
+  219  cd FirstWebProject/
+  220  cd src/
+  221  clear
+  222  python TestFlask.py 
+  223  cd /
+  224  clear
+  225  cd root/
+  226  cd PycharmProjects/
+  227  cd FirstWebProject/
+  228  cd ..
+  229  clear
+  230  git init
+  231  git add FirstWebProject/
+  232  git commit "First pyCharm project with sqlite"
+  233  git commit -m "First pyCharm project with sqlite"
+  234  git status
+  235  git push
+  236  git stash
+  237  git stash list
+  238  git status
+  239  git remote -v
+  240  git push
+  241  git push https://github.com/pandey1ashish
+  242* git push --set-upstream https://github.com/pandey1ashish mast
+  243  git push --set-upstream https://github.com/pandey1ashish/PyUtilTest master
+  244  git push origin master
+  245  git add FirstWebProject/*
+  246  git commit
+  247  git push master
+  248  git push origin master
+  249  git push FirstWebProject master
+  250  git remote add origin https://github.com/pandey1ashish/PyCharmProjects.git
+  251  git push -u origin master
+  252  git remote add origin https://github.com/pandey1ashish/PyCharmProjects.git
+  253  git push -u origin master
+  254  git diff
+  255  git status
+  256  git remote -v
+  257  git push
+  258  git push --set-upstream https://github.com/pandey1ashish/PyCharmProjects.git master
+

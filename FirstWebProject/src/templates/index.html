@@ -6,6 +6,26 @@
 </head>
 <body>
 <h1>Welcome Page!</h1>
+<p>{{content}}</p>
+<p>{{country}}</p>
+<br>
+{% for x in range(10) %}
+{% if  x % 2 == 1%}
+<p> {{x}} </p>
+{% endif %}
+{% endfor %}
+<br>
+{% for y in people %}
+<p>
+{% if y == "Vinay" %}
+<h3> {{y}} Bhaiya!</h3>
+{% elif y == "Ashish" %}
+<h3>{{y}} Chote Pandey!</h3>
+{% else %}
+<h3>{{y}} Dulhin!</h3>
+{% endif %}
+</p>
+{% endfor %}
 <br>
 User Name: <input type='text'><br><br>
 Password: &nbsp;&nbsp;&nbsp;<input type='password'>
